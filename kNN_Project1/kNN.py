@@ -270,6 +270,10 @@ def datingClassTest():
     print("错误率:%f%%" % (errorCount/float(numTestVecs)*100))
         
         
+        
+        
+
+
 """
 函数说明：通过输入一个人的三围特征，进行分类输出
 
